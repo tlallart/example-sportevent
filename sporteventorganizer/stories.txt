@@ -10,4 +10,9 @@ Search : shows calendars by sports / regions and search events by keyword or oth
 Comment : allow people to comment event (comment from people who have already registered on event are signaled)
 Super admin management : create sports, show global orders. Publish news.
 
-Stories :
+User Stories :
+
+Technical Stories :
+want TU
+want white box TI
+want tomee run 
