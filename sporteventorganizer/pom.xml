@@ -3,4 +3,33 @@
   <groupId>com.sportevent.example</groupId>
   <artifactId>sporteventorganizer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.11</version>
+  		<scope>test</scope>
+  	</dependency>
+  	<dependency>
+  		<groupId>hsqldb</groupId>
+  		<artifactId>hsqldb</artifactId>
+  		<version>1.8.0.10</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate-entitymanager</artifactId>
+  		<version>4.2.5.Final</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>javax</groupId>
+  		<artifactId>javaee-web-api</artifactId>
+  		<version>6.0</version>
+  	</dependency>
+  </dependencies>
+  <packaging>war</packaging>
 </project>

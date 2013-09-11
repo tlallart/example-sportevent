@@ -1,0 +1,13 @@
+Vision :
+SportEvent is as free software as a service on which organizer can easily publish, promote & manage sports events on the Web
+and participants can easily find competitions and register. Unlike others software, Sportevent let organizer publish contents (pages,
+videos, images...) for better promotion and allow participants to comment every events directly or from twitter, facebook, pinterest...
+
+Features :
+Event management : create, modify, publish, drop sports events & competitions
+Registration : user can register, organizer can show listings
+Search : shows calendars by sports / regions and search events by keyword or others criteria
+Comment : allow people to comment event (comment from people who have already registered on event are signaled)
+Super admin management : create sports, show global orders. Publish news.
+
+Stories :
